@@ -122,3 +122,6 @@
     </tr>
   </tbody>
 </table>
+
+
+[![Join the chat at https://gitter.im/WCCCEDU/CPT-180-27-S2016-Course-Info](https://badges.gitter.im/WCCCEDU/CPT-180-27-S2016-Course-Info.svg)](https://gitter.im/WCCCEDU/CPT-180-27-S2016-Course-Info?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
