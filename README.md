@@ -13,7 +13,7 @@
       <th>
         <strong>Topics &amp; Assignments</strong>
       </th>
-      <th>
+      <th width="12%">
         <strong>Week</strong>
       </th>
     </tr>
@@ -30,7 +30,7 @@
       <td>
         Expressions and Interactivity
       </td>
-      <td>Weeks 2</td>
+      <td>Week 2</td>
     </tr>
     <tr>
       <td>4, 7</td>
