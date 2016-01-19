@@ -1,5 +1,3 @@
-Here are the answers to your questions.
-
 ####  Clayton Checkeye
   - Github             : ccheckeye
   - Fish               : Clownfish
