@@ -135,3 +135,18 @@
   Another difference is their occupations. Geeks tend to gravitate toward jobs that let them indulge in their interests. The site also says that geeks like to have fun while they work so they choose writing, graphic arts, or animation. Nerds supposedly seek jobs that benefit fromt heir devotion to all things academia and end up in fields like computer programming, scientists etc. 
 
   The last difference the site gives is a difference in social interaction, stating that geeks can sometimes be introverted and by extension not know how to respond approprately in conversation. It goes on to state that geeks are shown to react better to social stimuli and can get stuck in rants about their passions such as television shows or comic books.  I'm not sure how much truth there was to this article but like I said, I hadn't really thought about it before so it was helpful. 
+
+#### Timothy Connelly
+  - Github             : 
+  - Fish               : Red Snapper
+  - Adventure Time Char: Ice King
+  - Computer Scientist : Alan Turing
+  - Geek Vs Nerd       :
+ 
+  The difference between Geek and Nerd to me is a bit of a sticky situation. They are similar in some regards, such as being a much more negative word when used to describe a guy, as compared to a girl. They also tend to be thrown around as insults by people when they can’t find a real adjective to describe people that are different than themselves. That being said, I see a few differences between these words also.
+
+  The main difference for me is that when people use the word geek, I tend to think of it as a technological thing. I like being a geek because I think I understand technology and computers and softward and hardware better than the average person. When people tell me I’m being geeky about something, I’m usually raving about new tech or a video game’s contrast or trying to explain to my disinterested friends exactly how an app works.
+  
+  In contrast, I tend to look at nerd for liking “nerdy” things, being bookwormish or liking things like SciFi, RPGs and Fantasy. In today’s computer age, I tend to think that people use this more negatively than geek because of this whole “smart is sexy” movement that tech billionaires have made popular. I like being nerdy though, because everyone likes just what they like, and if anyone can outquote me watching Lord of the Rings or any of the Harry Potters, I’d be astonished. Go ahead, I dare ya.
+  
+  So in conclusion, where I feel like geek is a technological kind of way to describe someone, nerdy is someone who likes all of the fantastic things I like anyways. To me, neither are an insult, so hopefully they stop having any negative connotations, because I’m a proud geek/nerd.
