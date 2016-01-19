@@ -38,3 +38,18 @@ Here are the answers to your questions.
   The “Geek” in my opinion is a functional “Nerd” because the “Nerd” in my opinion is someone that may appear to be educated, but is socially awkward. The “Nerd” in my opinion is less socially outgoing than a “Geek.”
  
   All of that being said, I don’t like putting labels on people, unless they label themselves. I have often been called a “Geek” and it doesn’t particularly bother me. I think that I am a Highly Functioning Geek.
+
+#### Samantha Shurie
+  - Github             : Arevyn24
+  - Fish               : Pajama Fish
+  - Adventure Time Char: Lumpy Space Princess
+  - Computer Scientist : Grace Hopper
+  - Geek Vs Nerd       :
+
+  Some copypasta from last semester. I took to the internet for this.
+
+  A "Nerd" is considered to be a person who is very dedicated academically, very intelligent, but stereo-typically lacking in socialization skills. While they enjoy games, these are typically games or puzzles played in solitude. My favorite definition of the term I found online was "A four-letter word with a six-figure income" (urbandictionary.com). Also often described as the guy that will "be your boss someday."
+
+   A "Geek" is a person who is also very dedicated to a specific subject, usually in the pop-culture world. They are die-hard fans of TV shows, movies, directors, video games, and the like. They may often quote, make references to, or relate life situations to media that they have seen, read, or played. They are usually part of a fandom. Geeks are typically considered more outgoing than nerds and are more accepted in social situations. A geek may consider him or herself part of a fandom.
+
+  I am a little of both. &#X1f60a 
