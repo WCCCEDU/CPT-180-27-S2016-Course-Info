@@ -66,7 +66,7 @@
   The attire of a geek or nerd can be seen as differentially the same. In geek culture we want to master one specific topic. Yet in the nerd culture they want too see themselves as a sophisticated group of individuals. When a geeks interests are in that of comics we can see them dress as though they were imitating their idol or their interest. So a geek would more than likely be wearing a batman shirt or maybe a Martian Manhunter jacket. Yet when we look at a nerd we see them as wearing a button down shirt with matching pants and dress shoes. So if we look back the nerd is the one that is wearing the more simple and less attractive style of clothing that shows the differences of their mentality to their style of dress. But then we look at the geeks who are the masters of their world and need to be the same way in their style of dress.
 
 #### Brandon Collins
-  - Github             : 
+  - Github             : NDfan1636
   - Fish               : Catfish
   - Adventure Time Char: Finn the Human
   - Computer Scientist : Bill Gates
