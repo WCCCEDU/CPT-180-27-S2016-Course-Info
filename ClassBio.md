@@ -105,7 +105,7 @@
   Now that "geeks" and "nerds" have been defined, and examples have been given as to how they are different than "normal" people, I will explain how they differ from each other.  Geeks usually have certain areas of expertise, whereas nerds try to understand the entire field.  A nerd might appreciate both Star Wars and Star Trek for what they have brought to the science fiction genre, but a geek will choose one to adore while despising the other.  While a nerd will try to understand the same subject as a geek, a nerd will never live and breathe that subject the same as a geek does.  There may be some differences between the two, and they may argue there is more, the truth also is that every geek is part nerd, and every nerd is part geek.
   
 #### Michael Watkins
-  - Github             : 
+  - Github             : Watkinsmi0523
   - Fish               : Salmon
   - Adventure Time Char: Marcelene or Jake the Dog
   - Computer Scientist : Scott Aaronson
