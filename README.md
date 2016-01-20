@@ -1,5 +1,11 @@
 [![Join the chat at https://gitter.im/WCCCEDU/CPT-180-27-S2016-Course-Info](https://badges.gitter.im/WCCCEDU/CPT-180-27-S2016-Course-Info.svg)](https://gitter.im/WCCCEDU/CPT-180-27-S2016-Course-Info?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+MinGW for Lab Computers: [https://app.box.com/s/s9bfonguea3abz3o6onzevogbh2h081p](https://app.box.com/s/s9bfonguea3abz3o6onzevogbh2h081p)
+Extract this somewhere in your home directory and then point Clion to it under Preferences -> Toolchains
+
+For your own computer install: [http://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download](http://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download)
+Install the items in this picture: [https://app.box.com/s/8st6urinp7pu27hj15bouwb7hqypkg7l](https://app.box.com/s/8st6urinp7pu27hj15bouwb7hqypkg7l)
+
 Style Guide [https://google.github.io/styleguide/cppguide.html](https://google.github.io/styleguide/cppguide.html)
 
 <p>
