@@ -1,3 +1,16 @@
+####  Paul Scarrone
+  - Github             : ninjapanzer
+  - Fish               : Babelfish
+  - Adventure Time Char: Magic Man
+  - Computer Scientist : Grace Hopper
+  - Geek Vs Nerd       : 
+
+  Geek and nerd are variation on a theme of willingness to commit oneself to a passion above and beyond what society might consider excessive. Personally I see geeks and nerds as those seeking the Marxist utopia of contributing to society by participating only through ones passions. As the contemporary definition of geek and nerd shift through popular culture I see the seperation between the terms as a parent child relationship.
+  
+  Geek being the parent role is an expression of passion or adherance to a topic that rings true to an individual the Japanease have a term; Otaku which illustrates and indvidual obsessed with a topic. They are a fan and constantly express their fandom. Nerds also experience this fandom for their particular passion. The difference is in action.
+  
+  Nerds also produce work and not only spend their time obsession about their passion but participate in its advancement. This is a time consuming endeavour which adds additional engagement to what a geek would normally put forth. As such I believe this is why nerds are commonly seen as unkempt and socially awkward. They have traded everyday human interacitons and norms to reclaim time to apply to their work. Although this could also just be an excuse for laziness.
+
 ####  Clayton Checkeye
   - Github             : ccheckeye
   - Fish               : Clownfish
