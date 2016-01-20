@@ -172,3 +172,18 @@
   The term “nerd”, when used correctly, refers to a person who is outstandingly intelligent and/or studious. The term “geek”, on the other hand, refers to a person who is not necessarily very intelligent or studious, but is outstandingly enthusiastic and knowledgable about a particular subject.
 
   In conclusion, the terms “geek” and “nerd” are not the same thing, even though they are used similarly.
+
+#### Naomi Brown
+  - Github             : 
+  - Fish               : Mahi-Mahi in a lemon & butter sauce
+  - Adventure Time Char: None
+  - Computer Scientist : Steve Jobs
+  - Geek Vs Nerd       :
+
+  Geeks don't know they are Geeks - they are just OCD about a certain topic or general subject and won't let up until you've heard every itty bitty detail.
+               
+  Nerds know they're Nerds and are proud of it.  They prefer to interact with only those on their level of intelligence and are content to sit in a cubicle at the end of the hallway, in the back, with no one around.
+               
+  In the end, a Nerd gets revenge, ends up with the captain of the cheerleading squad, and attains wealth. The Geek goes to ComicCon.
+  
+  
