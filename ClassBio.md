@@ -185,5 +185,11 @@
   Nerds know they're Nerds and are proud of it.  They prefer to interact with only those on their level of intelligence and are content to sit in a cubicle at the end of the hallway, in the back, with no one around.
                
   In the end, a Nerd gets revenge, ends up with the captain of the cheerleading squad, and attains wealth. The Geek goes to ComicCon.
-  
-  
+
+#### Justin Krause
+  - Github             : JustinKrause
+  - Fish               : [Redacted]
+  - Adventure Time Char: [Redacted]
+  - Computer Scientist : [Redacted]
+  - Geek Vs Nerd       : [Redacted]
+
