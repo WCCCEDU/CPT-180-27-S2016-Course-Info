@@ -159,3 +159,16 @@
   - Geek Vs Nerd       :
 
   Geek and nerd are relatively similar terms. One is an intellectual with a lack of social skills (nerd), while the other is an eccentric intellectual (geek). I don't think I can write a three paragraph essay on the subject.
+
+#### Emily Weinhofer
+  - Github             : 
+  - Fish               : My goldfish, Swimmy
+  - Adventure Time Char: LSP
+  - Computer Scientist : My boyfriend's dad
+  - Geek Vs Nerd       :
+
+  The terms “geek” and “nerd” are often confused, or used interchangeably. Although there is often a negative connotation associated with the use of both of these words, they do not mean the same thing.
+
+  The term “nerd”, when used correctly, refers to a person who is outstandingly intelligent and/or studious. The term “geek”, on the other hand, refers to a person who is not necessarily very intelligent or studious, but is outstandingly enthusiastic and knowledgable about a particular subject.
+
+  In conclusion, the terms “geek” and “nerd” are not the same thing, even though they are used similarly.
