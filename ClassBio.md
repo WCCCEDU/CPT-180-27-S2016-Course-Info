@@ -206,3 +206,15 @@
   - Computer Scientist : [Redacted]
   - Geek Vs Nerd       : [Redacted]
 
+####  Joshua Young
+  - Github             : joshuayoung101
+  - Fish               : Blobfish
+  - Adventure Time Char: The Tart Toter
+  - Computer Scientist : Turing -> Gordon Moore -> Gary Kildall
+  - Geek Vs Nerd       : 
+  
+  The terms geek and nerd have become increasingly used in popular culture to the point of no longer having a meaning. The term nerd now seems to refer to anyone with an interest in... well just about anything. Have an interest in video games? You're a nerd. An interest in books? Nerd. Recently I have even heard the term nerd applied to a person who follows sports avidly. In light of this I'll give my own personal opinion on what a nerd and geek are and how they differ.
+
+  To me a nerd is someone who is both knowledgeable and enthusiastic about a certain spectrum of technical areas. For example someone who knows about and likes sci-fi work is a nerd to me. Likewise someone who is into programming and has knowledge on the subject is a nerd. On the other hand a geek is someone who has an immense amount of knowledge on a specific subject. going back to our previous examples a geek would be someone who has memorized every episode of Star Trek or an avid follower specifically Doctor Who.
+
+  The only real different factor to me is that a nerd is someone with a broad knowledge of an area they love, whereas a geek is devoted to a specific facet of a genre. I view both words as a way to define someone and their interests and find neither to be demeaning. I think people can be fit into either category, neither or both. There is nothing to say a person cannot be both a geek and nerd. I know this is not the most rigid of definitions and there is probably a more accurate one out there, but this is how I generalize the terms and what they mean to me. 
