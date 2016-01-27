@@ -174,7 +174,7 @@
   Geek and nerd are relatively similar terms. One is an intellectual with a lack of social skills (nerd), while the other is an eccentric intellectual (geek). I don't think I can write a three paragraph essay on the subject.
 
 #### Emily Weinhofer
-  - Github             : 
+  - Github             : weinhofere
   - Fish               : My goldfish, Swimmy
   - Adventure Time Char: LSP
   - Computer Scientist : My boyfriend's dad
