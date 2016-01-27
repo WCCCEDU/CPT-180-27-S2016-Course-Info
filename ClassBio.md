@@ -133,7 +133,7 @@
   Overall, there are subtle differences between the two, with most of the time a person can be both since the line between them can blur.
 
 #### Tim Woods
-  - Github             : 
+  - Github             : TimothyWoods
   - Fish               : Tilapia / Beta
   - Adventure Time Char: Jake the dog
   - Computer Scientist : Alan Turing
