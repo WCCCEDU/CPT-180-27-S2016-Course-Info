@@ -150,7 +150,7 @@
   The last difference the site gives is a difference in social interaction, stating that geeks can sometimes be introverted and by extension not know how to respond approprately in conversation. It goes on to state that geeks are shown to react better to social stimuli and can get stuck in rants about their passions such as television shows or comic books.  I'm not sure how much truth there was to this article but like I said, I hadn't really thought about it before so it was helpful. 
 
 #### Timothy Connelly
-  - Github             : 
+  - Github             : TimConnelly7
   - Fish               : Red Snapper
   - Adventure Time Char: Ice King
   - Computer Scientist : Alan Turing
