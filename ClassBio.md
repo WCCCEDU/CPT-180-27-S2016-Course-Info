@@ -94,7 +94,7 @@
   Even though “geeks” and “nerds” are closely related with being highly intelligent individuals, people misuse these words daily. People can distinguish between the two by looking back at the famous people in the world. Albert Einstein is a “geek” for his theories and discoveries, and Gates and Jobs are “nerds” for inventing the computer. “Geeks” discover things; “nerds” invent things.
 
 #### Jonathan Chishko
-  - Github             : 
+  - Github             : chishko
   - Fish               : Swedish Fish
   - Adventure Time Char: 
   - Computer Scientist : Mr. Robot (TV Show?)
