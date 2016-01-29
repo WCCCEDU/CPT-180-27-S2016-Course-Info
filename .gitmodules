@@ -1,3 +1,6 @@
 [submodule "assignments/CPT-180-27-Assignment-1-Github"]
 	path = assignments/CPT-180-27-Assignment-1-Github
 	url = https://github.com/WCCCEDU/CPT-180-27-Assignment-1-Github
+[submodule "assignments/CPT-180-27-Assignment-1-Coding"]
+	path = assignments/CPT-180-27-Assignment-1-Coding
+	url = git@github.com:WCCCEDU/CPT-180-27-Assignment-1-Coding.git
