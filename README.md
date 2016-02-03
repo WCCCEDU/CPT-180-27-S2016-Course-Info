@@ -46,17 +46,17 @@ Install the items in this picture: [https://app.box.com/s/8st6urinp7pu27hj15bouw
       <td>Week 2</td>
     </tr>
     <tr>
-      <td>4, 7</td>
+      <td>4, 5</td>
       <td>
+        Loops and Files<br/>
         Making Decisions<br/>
-        Arrays
       </td>
       <td>Week 3</td>
     </tr>
     <tr>
-      <td>5, 9</td>
+      <td>7, 9</td>
       <td>
-        Loops and Files<br/>
+        Arrays<br/>
         Pointers
       </td>
       <td>Week 4</td>
