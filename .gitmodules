@@ -10,3 +10,6 @@
 [submodule "assignments/CPT-180-27-Assignment-3-Libraries"]
 	path = assignments/CPT-180-27-Assignment-3-Libraries
 	url = https://github.com/WCCCEDU/CPT-180-27-Assignment-3-Libraries
+[submodule "assignments/CPT-180-27-Assignment-4-Analysis-Tool"]
+	path = assignments/CPT-180-27-Assignment-4-Analysis-Tool
+	url = git@github.com:WCCCEDU/CPT-180-27-Assignment-4-Analysis-Tool.git
