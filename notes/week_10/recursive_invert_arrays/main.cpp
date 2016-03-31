@@ -12,6 +12,14 @@ int main() {
     return 0;
 }
 
+// Performance of this in O would be different given the array is even or odd
+// Assuming n is the length of the array
+// Odd: O((n-1)/2) Or half of the items -1
+// Even: O(n/2)
+// The impact of this is that the odd arrays have the same performance as an even one
+// Since BigO is about worst case we would refer only to the bigger one
+// Thus O(n/2)
+
 void reverse(int numbers[], int begin, int length){
     int end = length - 1 - begin;
     if(end - begin > 0){
