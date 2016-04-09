@@ -19,9 +19,6 @@
 [submodule "notes/week_11/CPT-180-27-Encryption-Caesar-Shift"]
 	path = notes/week_11/CPT-180-27-Encryption-Caesar-Shift
 	url = git@github.com:WCCCEDU/CPT-180-27-Encryption-Caesar-Shift.git
-[submodule "notes/week_11/CPT-180-27-Assignment-5-Structures"]
-	path = notes/week_11/CPT-180-27-Assignment-5-Structures
-	url = git@github.com:watkinsmi0523/CPT-180-27-Assignment-5-Structures.git
 [submodule "notes/week_11/watkinsmi0523-assignment-5/start"]
 	path = notes/week_11/watkinsmi0523-assignment-5/start
 	url = git@github.com:watkinsmi0523/CPT-180-27-Assignment-5-Structures.git
