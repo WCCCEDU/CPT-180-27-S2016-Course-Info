@@ -97,34 +97,32 @@ Install the items in this picture: [https://app.box.com/s/8st6urinp7pu27hj15bouw
       <td>Week 9</td>
     </tr>
     <tr>
-      <td>19</td>
-      <td>Recursion</td>
+      <td></td>
+      <td>Easter</td>
       <td>Week 10</td>
     </tr>
     <tr>
-      <td>---</td>
-      <td>More Algorithms</td>
+      <td>19</td>
+      <td>Recursion</td>
       <td>Week 11</td>
     </tr>
     <tr>
-      <td>12</td>
-      <td>Advanced File Operations</td>
+      <td></td>
+      <td>Study Session</td>
       <td>Week 12</td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>Introduction to Classes</td>
+      <td></td>
+      <td>Study Session</td>
       <td>Week 13</td>
     </tr>
     <tr>
-      <td>17</td>
-      <td>
-        Linked Lists
-      </td>
+      <td></td>
+      <td>Study Session</td>
       <td>Week 14</td>
     </tr>
     <tr>
-      <td>---</td>
+      <td></td>
       <td>Final Review</td>
       <td>Week 15</td>
     </tr>
